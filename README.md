@@ -11,7 +11,4 @@
 - **Visualization:** Power BI, Excel, Google Sheets  
 - **Tools:** Git/GitHub, Jupyter, VS Code  
 
-## 📂 Featured Projects
-- [Blinkit Sales Data Analysis](#)  
-- [Risk Analytics & Banking Dashboard](#)
 
