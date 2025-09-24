@@ -13,5 +13,5 @@
 
 ## 📂 Featured Projects
 - [Blinkit Sales Data Analysis](#)  
-- [Risk Analytics & Banking Dashboard](#)  
-- [IBM Data Analyst Certificate Projects](#)  
+- [Risk Analytics & Banking Dashboard](#)
+
