@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Fuzail  
 
-<!--
-**analystfuzail/analystfuzail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BTech graduate skilled in **SQL, PL/SQL basics, Python, Excel, and Power BI** with hands-on data projects.  
+📊 Familiar with **ITIL, Oracle ERP fundamentals, and Cloud basics**.  
+📝 Experienced in **documentation, audits, knowledge base support**, and collaborating with multiple stakeholders.  
+💡 Strong communication, problem-solving, and analytical skills with readiness to work from office (WFO).  
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Databases & Languages:** SQL, PL/SQL, Python, C, C++, MySQL, Oracle  
+- **ERP & ITSM:** Oracle ERP basics, ITIL concepts, Cloud fundamentals  
+- **Visualization:** Power BI, Excel, Google Sheets  
+- **Tools:** Git/GitHub, Jupyter, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [Blinkit Sales Data Analysis](#)  
+- [Risk Analytics & Banking Dashboard](#)  
+- [IBM Data Analyst Certificate Projects](#)  
