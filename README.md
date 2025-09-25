@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Mohd Fuzail  
 
-👨‍🎓 BTech graduate with a strong foundation in technology and hands-on experience 🔧 troubleshooting hardware and 💻 software issues. 
- Proficient in diagnosing, resolving, and escalating technical problems ⚡ to ensure smooth IT operations. 
- Experienced with tools and technologies including 🗄️ **SQL**, 🐍 **Python**, and 📊 **Power BI** to assist in technical problem-solving and automation 🤖.  
+👨‍🎓 BTech graduate with a strong foundation in data analysis and problem-solving.
+Skilled in collecting, cleaning, and interpreting datasets to generate meaningful business insights 📊.
+Proficient in tools and technologies including 🗄️ SQL, 🐍 Python, and 📊 Power BI for data analysis and visualization.
+Hands-on exposure to 🤖 AI/ML basics such as regression, classification, and clustering, with knowledge of libraries like Pandas, NumPy, Scikit-learn, and Matplotlib.
+Focused on leveraging data-driven decision-making and automation ⚡ to improve efficiency and deliver actionable insights.
 
 ## 🔧 Technical Skills
 
@@ -12,10 +14,11 @@
 - **Tools and Platforms** : Jupyter Notebook, Google Colab, Git & Github,VS Code
 - **Soft skills** : Data Storytelling, Requirement gathering, Problem solving, Agile methodologies, Strong English Communication
 
-## 🪩 Let's Connect
+## 🔗 Let's Connect
 
 [Linkedin](https://www.linkedin.com/in/analystfuzail/)
 [Medium](https://medium.com/@erfuzail01)
+[Instagram](https://www.instagram.com/_mohd__fuzail_/)
  
 
 
