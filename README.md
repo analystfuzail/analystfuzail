@@ -19,6 +19,4 @@ Focused on leveraging data-driven decision-making and automation ⚡ to improve 
 [Linkedin](https://www.linkedin.com/in/analystfuzail/)
 [Medium](https://medium.com/@erfuzail01)
 [Instagram](https://www.instagram.com/_mohd__fuzail_/)
- 
-
-
+[Kaggle](https://www.kaggle.com/mohdfuzail) 
