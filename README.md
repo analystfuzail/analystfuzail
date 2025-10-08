@@ -2,7 +2,7 @@
 
 👨‍🎓 BTech graduate with a strong foundation in data analysis and problem-solving.
 Skilled in collecting, cleaning, and interpreting datasets to generate meaningful business insights 📊.
-Proficient in tools and technologies including 🗄️ SQL, 🐍 Python, and 📊 Power BI for data analysis and visualization.
+Proficient in tools and technologies including 🗄️ SQL, 🐍 Python, 📄 MS Excel and 📊 Power BI for data analysis and visualization.
 Hands-on exposure to 🤖 AI/ML basics such as regression, classification, and clustering, with knowledge of libraries like Pandas, NumPy, Scikit-learn, and Matplotlib.
 Focused on leveraging data-driven decision-making and automation ⚡ to improve efficiency and deliver actionable insights.
 
