@@ -12,8 +12,9 @@ Focused on leveraging data-driven decision-making and automation ⚡ to improve 
 - **Databases** : MySQL, MSSQL Server, Oracle Database
 - **BI and Visualization** : Excel,Google Sheets,Power BI(Data Modelling,Power Query,Advanced DAX,Power BI service)
 - **Tools and Platforms** : Jupyter Notebook, Google Colab, Git & Github,VS Code
-- **AI/ML Awareness** : Machine Learning Basics, Generative AI, Copilot, ChatGPT / OpenAI APIs 
-- **Soft skills** : Data Storytelling, Requirement gathering, Problem solving, Agile methodologies, Strong English Communication
+- **AI/ML Awareness** : Machine Learning Basics, Generative AI, Copilot, ChatGPT / OpenAI APIs
+- **Analytical Abilities** : Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Descriptive Statistics
+- **Soft Skills** : Data Storytelling, Requirement gathering, Problem solving, Agile methodologies, Strong English Communication
 
 ## 🔗 Let's Connect
 
@@ -21,3 +22,4 @@ Focused on leveraging data-driven decision-making and automation ⚡ to improve 
 [Medium](https://medium.com/@erfuzail01)
 [Instagram](https://www.instagram.com/_mohd__fuzail_/)
 [Kaggle](https://www.kaggle.com/mohdfuzail) 
+[X.com](https://x.com/fuzail3233)
