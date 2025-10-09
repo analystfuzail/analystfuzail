@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohd Fuzail  
+# 👋 Hi, I'm [Mohd Fuzail](https://www.erfuzail01.wixsite.com/analystfuzail)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,8 +23,8 @@ Focused on leveraging data-driven decision-making and automation ⚡ to improve 
 
 ## 🔗 Let's Connect
 
-[Linkedin](https://www.linkedin.com/in/analystfuzail/)
-[Medium](https://medium.com/@erfuzail01)
-[Instagram](https://www.instagram.com/_mohd__fuzail_/)
-[Kaggle](https://www.kaggle.com/mohdfuzail) 
+[Linkedin](https://www.linkedin.com/in/analystfuzail/) |
+[Medium](https://medium.com/@erfuzail01) |
+[Instagram](https://www.instagram.com/_mohd__fuzail_/) |
+[Kaggle](https://www.kaggle.com/mohdfuzail) | 
 [X.com](https://x.com/fuzail3233)
