@@ -1,4 +1,10 @@
 # 👋 Hi, I'm Mohd Fuzail  
+**Languages & Tools:**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 👨‍🎓 BTech graduate with a strong foundation in data analysis and problem-solving.
 Skilled in collecting, cleaning, and interpreting datasets to generate meaningful business insights 📊.
