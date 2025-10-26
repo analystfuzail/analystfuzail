@@ -14,12 +14,12 @@ Focused on leveraging data-driven decision-making and automation ⚡ to improve 
 ## 🔧 Technical Skills
 
 - **Languages** : SQL,Python(Pandas, Numpy ,Matplotlib, Seaborn, Plotly),C, C++, HTML/CSS
-- **Databases** : MySQL, MSSQL Server, Oracle Database
-- **BI and Visualization** : Excel,Google Sheets,Power BI(Data Modelling,Power Query,Advanced DAX,Power BI service)
-- **Tools and Platforms** : Jupyter Notebook, Google Colab, Git & Github,VS Code
+- **Databases** : MySQL, MSSQL Server, SQLite, Oracle Database
+- **BI and Visualization** : Excel, Google Sheets, Power BI(Data Modelling,Power Query,Advanced DAX,Power BI service)
+- **Tools and Platforms** : Jupyter Notebook, Google Colab, Git & Github, VS Code
 - **AI/ML Awareness** : Machine Learning Basics, Generative AI, Copilot, ChatGPT / OpenAI APIs
 - **Analytical Abilities** : Data Cleaning, Exploratory Data Analysis (EDA), Insight Generation, Descriptive Statistics
-- **Soft Skills** : Data Storytelling, Requirement gathering, Problem solving, Agile methodologies, Strong English Communication
+- **Soft Skills** : Data Storytelling, Requirement gathering, Problem solving, Agile methodologies, Business Acumen, Strong English Communication
 
 ## 🔗 Let's Connect
 
